@@ -1,0 +1,47 @@
+.Contenedor{
+    
+    background-image: url('./image1.jpg');
+    height: 100vmin;
+    background-repeat: no-repeat;
+    width: 100vmin;
+}
+
+.fondo{
+    height: 100vmin;
+    width: 100vmin;
+    
+}
+.Cuerpo{
+    color: darkslateblue;
+    font-size: 40px;
+    position: relative;
+    align-items: center;
+    left: 150px;
+    top: 150px; 
+}
+.logo{
+    position: relative;
+    height: 5pt;
+    width: 5pt;
+}
+.Textobase{
+    position: relative;
+    top: 10px;
+    color: white;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.interno{
+    top: 10px;
+    color: darkgoldenrod;
+    text-align: center;
+    
+}
+.pie{
+    color: darkgray;
+    font-size: 50px;
+    position: relative;
+    top: 400px;
+    text-align: center;
+}
